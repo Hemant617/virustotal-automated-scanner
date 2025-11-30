@@ -1,0 +1,13 @@
+# Sample Files List for Batch Scanning
+# Add one file path per line
+# Lines starting with # are comments
+
+# Example files (replace with actual paths):
+# /path/to/suspicious.exe
+# /path/to/document.pdf
+# /path/to/archive.zip
+# /path/to/script.js
+
+# EICAR test file (standard antivirus test)
+# Create this file with: echo "X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*" > eicar.txt
+# eicar.txt

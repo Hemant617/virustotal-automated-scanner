@@ -1,6 +1,18 @@
 # 🛡️ VirusTotal Automated Scanner
 
-A powerful Python-based automated security scanner that leverages the VirusTotal API to scan files, URLs, domains, and IP addresses for malware, viruses, and security threats. Generate comprehensive reports with detailed threat analysis.
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-API_v3-394EFF.svg)
+
+**A powerful Python-based automated security scanner that leverages the VirusTotal API to scan files, URLs, domains, and IP addresses for malware, viruses, and security threats. Generate comprehensive reports with detailed threat analysis.**
+
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation) • [Author](#-author)
+
+</div>
+
+---
 
 ## ✨ Features
 
@@ -275,6 +287,25 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## 👨‍💻 Author
+
+**Hemant Kaushal**
+
+- 🔐 Cybersecurity Analyst | SOC Operations | Incident Response
+- 📧 Email: hemuh877@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/hemantkaushal](https://linkedin.com/in/hemantkaushal)
+- 💻 GitHub: [@Hemant617](https://github.com/Hemant617)
+- 📱 Phone: +91 96342 22262
+
+### 🎓 Certifications
+- Deloitte Cyber Job Simulation (Forage)
+- Deloitte Data Analytics Job Simulation (Forage)
+- Cisco Introduction to Cybersecurity
+
+### 🚀 Other Projects
+- [Threat Log Analyzer](https://github.com/Hemant617/threat-log-analyzer)
+- [View All Projects](https://github.com/Hemant617)
+
 ## 🙏 Acknowledgments
 
 - Built with [VirusTotal API v3](https://developers.virustotal.com/reference/overview)
@@ -301,4 +332,10 @@ This tool is for educational and authorized security testing purposes only. Alwa
 
 ---
 
-**Made with ❤️ for cybersecurity professionals and enthusiasts**
+<div align="center">
+
+**⭐ If you find this project useful, please consider giving it a star!**
+
+Made with ❤️ by [Hemant Kaushal](https://github.com/Hemant617)
+
+</div>
